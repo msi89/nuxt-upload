@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@nuxtjs/auth": "^4.5.3",
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "nuxt": "^2.0.0"
   },
   "devDependencies": {
